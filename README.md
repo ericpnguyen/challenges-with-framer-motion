@@ -1,8 +1,6 @@
-# React + Vite
+# React Challenges Website with Framer Motion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+1. Scrolling animation on home page
+2. Ability to add new challenges with a title, description, deadline and image
+3. Animations for viewing challenge details, transitioning a challenge to a different category and tab navigation
